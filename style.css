@@ -160,7 +160,7 @@ a
 
 .button__message::after
 {
-    content: "Cái gì";
+    content: "Gì";
 }
 
 .button__message:hover:after
